@@ -1,0 +1,30 @@
+{
+  "name": "amd-shim",
+  "version": "1.0.0",
+  "description": "Shim any module into being an AMD module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OnlineBuddies/amd-shim.git"
+  },
+  "directories": {
+    "bin": "bin"
+  },
+  "keywords": [
+    "esprima",
+    "amd",
+    "require.js"
+  ],
+  "author": "Aria Stewart <aredridel@dinhe.net>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/OnlineBuddies/amd-shim/issues"
+  },
+  "homepage": "https://github.com/OnlineBuddies/amd-shim",
+  "dependencies": {
+    "csv": "^0.3.7",
+    "escodegen": "^1.3.2",
+    "esprima": "^1.2.1",
+    "eswalk": "^1.0.2",
+    "optimist": "^0.6.1"
+  }
+}
