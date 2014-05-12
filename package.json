@@ -1,6 +1,6 @@
 {
   "name": "amd-shim",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shim any module into being an AMD module",
   "repository": {
     "type": "git",
